@@ -567,3 +567,7 @@ dd p:first-child {
   font-size: .85em;
   font-style: italic;
 }
+
+.abstract-dedeler-avatar-container-factory{
+  text-align: center;
+}
